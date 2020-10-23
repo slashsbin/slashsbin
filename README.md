@@ -23,6 +23,9 @@ My name is Mohammad Shokri Khanghah (a.k.a slashsbin).
 <a href="https://fb.com/slashsbin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="slashsbin" height="30" width="40" /></a>
 <a href="https://instagram.com/slashsbin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="slashsbin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/slashsbin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="slashsbin" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/1146794683" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="slashsbin" height="30" width="40" /></a>
+<a href="https://keybase.io/slashsbin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="slashsbin" height="30" width="40" /></a>
+<a href="https://t.me/slashsbin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="slashsbin" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
