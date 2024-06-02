@@ -10,12 +10,12 @@ My name is _Mohammad Shokri Khanghah_,
 - :gift: Open-source enthusiast. Thanks to all open-source contributors.
 - :snowman: Do you wanna build a highly scalable distributed system? Yes, I do! :bowtie:
 - :factory: Automate the boring tasks and make something for developers.
-- :bookmark_tabs: Check out my experiences on [LinkedIn](https://www.linkedin.com/in/slashsbin/).
+- :bookmark_tabs: Check out my experiences on [LinkedIn](https://www.linkedin.com/in/slashsbin).
 
 ## Connect with me
 <p align="left">
     <a href="https://twitter.com/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="twitter" height="48" width="48" title="Twitter" /></a>&nbsp;
-    <a href="https://linkedin.com/in/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin"  alt="linkedin" height="48" width="48" title="LinkedIn" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin"  alt="linkedin" height="48" width="48" title="LinkedIn" /></a>&nbsp;
     <a href="https://exercism.org/profiles/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/exercism" alt="exercism" height="48" width="48" title="Exercism" /></a>&nbsp;
     <a href="https://www.hackerrank.com/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="hackerrank" height="48" width="48" title="HackerRank" /></a>&nbsp;
     <a href="https://open.spotify.com/user/1146794683" target="_blank"><img align="center" src="https://cdn.simpleicons.org/spotify" alt="spotify" height="48" width="48" title="Spotify" /></a>
