@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fslashsbin.dev%2F)(https://slashsbin.dev)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fslashsbin.dev%2F)](https://slashsbin.dev)
 [![Static Badge](https://img.shields.io/badge/GPG-GPG?logo=gnuprivacyguard&logoColor=%230093DD)](https://slashsbin.dev/slashsbin.asc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/slashsbin?style=social)](https://twitter.com/slashsbin/)
 
