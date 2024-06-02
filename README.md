@@ -6,12 +6,11 @@
 
 My name is _Mohammad Shokri Khanghah_,
 
-- :computer: Backend engineer who loves designing system architectures.
-- :gift: Open source enthusiast. Thanks for the all open source contributors.
-- :snowman: Do you wanna build a highly scalable distributed system? Yes I do! :blush:
+- :technologist: Backend engineer who loves designing system architectures.
+- :gift: Open-source enthusiast. Thanks to all open-source contributors.
+- :snowman: Do you wanna build a highly scalable distributed system? Yes, I do! :bowtie:
 - :factory: Automate the boring tasks and make something for developers.
-- :page_facing_up: Know about my experiences on [LinkedIn](https://www.linkedin.com/in/slashsbin/).
-
+- :bookmark_tabs: Check out my experiences on [LinkedIn](https://www.linkedin.com/in/slashsbin/).
 
 ## Connect with me
 <p align="left">
