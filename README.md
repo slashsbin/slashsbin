@@ -1,6 +1,5 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fslashsbin.dev%2F)](https://slashsbin.dev)
 [![GnuPG](https://img.shields.io/badge/GPG-GPG?logo=gnuprivacyguard&logoColor=%230093DD)](https://slashsbin.dev/slashsbin.asc)
-[![Twitter](https://img.shields.io/twitter/follow/slashsbin?style=social)](https://twitter.com/slashsbin/)
 ![Emacs](https://img.shields.io/badge/Compatibility-Emacs-%237F5AB6?logo=gnuemacs)
 ![Black](https://img.shields.io/badge/Code%20Style-Black%20%F0%9F%90%88%E2%80%8D%E2%AC%9B-black)
 [![Nova](https://img.shields.io/badge/Certified%20For-StarCraft%20II%3A%20Nova%20Covert%20Ops-blue)](https://starcraft2.blizzard.com/)
