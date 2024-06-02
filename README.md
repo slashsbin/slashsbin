@@ -1,9 +1,9 @@
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fslashsbin.dev%2F)](https://slashsbin.dev)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fslashsbin.dev%2F)](https://slashsbin.dev/)
 [![GnuPG](https://img.shields.io/badge/GPG-GPG?logo=gnuprivacyguard&logoColor=%230093DD)](https://slashsbin.dev/slashsbin.asc)
-![Emacs](https://img.shields.io/badge/Compatibility-Emacs-%237F5AB6?logo=gnuemacs)
-![Black](https://img.shields.io/badge/Code%20Style-Black%20%F0%9F%90%88%E2%80%8D%E2%AC%9B-black)
+[![Emacs](https://img.shields.io/badge/Compatibility-Emacs-%237F5AB6?logo=gnuemacs)](https://www.gnu.org/software/emacs/manual/html_node/emacs/Amusements.html)
+[![Black](https://img.shields.io/badge/Code%20Style-Black%20%F0%9F%90%88%E2%80%8D%E2%AC%9B-black)](https://github.com/topics/tui)
 [![Nova](https://img.shields.io/badge/Certified%20For-StarCraft%20II%3A%20Nova%20Covert%20Ops-blue)](https://starcraft2.blizzard.com/)
-![BOFH](https://img.shields.io/badge/BOFH-%2FsBin-004d44)
+[![BOFH](https://img.shields.io/badge/BOFH-%2FsBin-004d44)](https://slashsbin.dev/)
 
 # Hi There 👋
 
