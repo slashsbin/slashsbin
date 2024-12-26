@@ -33,7 +33,7 @@ My name is _Mohammad Shokri Khanghah_,
     <a title="Grafana" href="https://grafana.com/" target="_blank"> <img src="https://cdn.simpleicons.org/grafana" alt="grafana" width="48" height="48"/></a>&nbsp;
     <a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.simpleicons.org/mysql" alt="mysql" width="48" height="48"/></a>&nbsp;
     <a title="NginX" href="https://www.nginx.com" target="_blank"> <img src="https://cdn.simpleicons.org/nginx" alt="nginx" width="48" height="48"/></a>&nbsp;
-    <a title="NuxtJS" href="https://nuxtjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/nuxtdotjs" alt="nuxtjs" width="48" height="48"/></a>&nbsp;
+    <a title="Nuxt" href="https://nuxtjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/nuxt" alt="nuxt" width="48" height="48"/></a>&nbsp;
     <a title="PHP" href="https://www.php.net" target="_blank"> <img src="https://cdn.simpleicons.org/php" alt="php" width="48" height="48"/></a>&nbsp;
     <a title="PostgreSQL" href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql" width="48" height="48"/></a>&nbsp;
     <a title="RabbitMQ" href="https://www.rabbitmq.com" target="_blank"> <img src="https://cdn.simpleicons.org/rabbitmq" alt="rabbitmq" width="48" height="48"/></a>&nbsp;
