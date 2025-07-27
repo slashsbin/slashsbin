@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fslashsbin.dev%2F)](https://slashsbin.dev/)
-[![GnuPG](https://img.shields.io/badge/GPG-GPG?logo=gnuprivacyguard&logoColor=%230093DD)](https://keys.openpgp.org/vks/v1/by-fingerprint/CEB060482EF34E64F50CB3AB7229717C1A66BF4A)
+[![GnuPG](https://img.shields.io/badge/GPG-GPG?logo=gnuprivacyguard&logoColor=%230093DD)](https://mail-api.proton.me/pks/lookup?op=get&search=slashsbin@proton.me)
 [![Emacs](https://img.shields.io/badge/Compatibility-Emacs-%237F5AB6?logo=gnuemacs)](https://www.gnu.org/software/emacs/manual/html_node/emacs/Amusements.html)
 [![Black](https://img.shields.io/badge/Code%20Style-Black%20%F0%9F%90%88%E2%80%8D%E2%AC%9B-black)](https://github.com/topics/tui)
 [![Nova](https://img.shields.io/badge/Certified%20For-StarCraft%20II%3A%20Nova%20Covert%20Ops-blue)](https://starcraft2.blizzard.com/)
@@ -7,22 +7,13 @@
 
 # Hi There 👋
 
-My name is _Mohammad Shokri Khanghah_,
+My name is _Mohammad_,
 
 - :technologist: A back-end engineer who loves designing system architectures.
 - :gift: Open-source enthusiast. Thanks to all the open-source contributors.
 - :snowman: Do you wanna build a highly scalable distributed system? Yes, I do! :bowtie:
 - :factory: Automate the boring tasks and make something for developers.
 - :bookmark_tabs: Check out my experiences on [LinkedIn](https://www.linkedin.com/in/slashsbin).
-
-## Connect with me
-<p align="left">
-    <a href="https://twitter.com/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="twitter" height="48" width="48" title="Twitter" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin"  alt="linkedin" height="48" width="48" title="LinkedIn" /></a>&nbsp;
-    <a href="https://exercism.org/profiles/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/exercism" alt="exercism" height="48" width="48" title="Exercism" /></a>&nbsp;
-    <a href="https://www.hackerrank.com/slashsbin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="hackerrank" height="48" width="48" title="HackerRank" /></a>&nbsp;
-    <a href="https://open.spotify.com/user/1146794683" target="_blank"><img align="center" src="https://cdn.simpleicons.org/spotify" alt="spotify" height="48" width="48" title="Spotify" /></a>
-</p>
 
 ## Technology Stack
 <p align="left">
