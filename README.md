@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fslashsbin.dev%2F)](https://slashsbin.dev/)
-[![GnuPG](https://img.shields.io/badge/GPG-GPG?logo=gnuprivacyguard&logoColor=%230093DD)](https://mail-api.proton.me/pks/lookup?op=get&search=slashsbin@proton.me)
+[![GnuPG](https://img.shields.io/badge/GPG-34C5CCF9?logo=gnuprivacyguard&logoColor=%230093DD)](https://mail-api.proton.me/pks/lookup?op=get&search=slashsbin@proton.me "Fingerprint: F7D5 ABA8 F99A 7D76 F4D4  EF49 2177 3080 34C5 CCF9")
 [![Emacs](https://img.shields.io/badge/Compatibility-Emacs-%237F5AB6?logo=gnuemacs)](https://www.gnu.org/software/emacs/manual/html_node/emacs/Amusements.html)
 [![Black](https://img.shields.io/badge/Code%20Style-Black%20%F0%9F%90%88%E2%80%8D%E2%AC%9B-black)](https://github.com/topics/tui)
 [![Nova](https://img.shields.io/badge/Certified%20For-StarCraft%20II%3A%20Nova%20Covert%20Ops-blue)](https://starcraft2.blizzard.com/)
